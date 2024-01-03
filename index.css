@@ -24,4 +24,33 @@ li{
     padding: 10px;
     color: rgb(122, 68, 133);
     font-weight: 900;
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 5px;
+}
+.b{
+    background-color: rgb(246, 247, 248);
+    border-radius: 5px;
+    box-shadow: 10px 10px 10px rgb(134, 199, 200);
+
+}
+#box_shadow{
+    box-shadow: 10px 10px 10px rgb(151, 169, 175);
+}
+
+.box-1{
+    box-shadow: 10px 10px 10px rgb(173, 209, 179);
+    border-radius: 10px;
+}
+.box-2{
+    box-shadow: 10px 10px 10px rgb(207, 209, 174);
+    border-radius: 10px;
+}
+.box-3{
+    box-shadow: 10px 10px 10px rgb(190, 173, 166);
+    border-radius: 10px;
+}
+.box-4{
+    box-shadow: 10px 10px 10px rgb(197, 149, 181);
+    border-radius: 10px;
 }
